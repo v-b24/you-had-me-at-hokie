@@ -1,3 +1,0 @@
--> UseEffect
--> UseState 
--> React uses JSX (syntax extension to JavaScript) not HTML
